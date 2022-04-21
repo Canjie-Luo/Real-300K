@@ -7,7 +7,7 @@
 ## Download
 
 - Download the dataset from [Google Drive](https://drive.google.com/file/d/1CwiXhGNooQ0IempluAWei-kvb9GHRCGQ/view?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1Kaaeyya8gNLeflT93Naq-A?pwd=u8qe) (Password: u8qe). 
-- The MD5 value of 'Real-300K-DataBase.zip' should be ''.
+- The MD5 value of 'Real-300K-DataBase.zip' should be 'c3c9a91498f547ee24af52b573fb47be'.
 - Unzip the 'Real-300K-DataBase.zip' file.
 
 ```
