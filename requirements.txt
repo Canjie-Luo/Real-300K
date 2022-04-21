@@ -1,0 +1,5 @@
+lmdb==0.98
+numpy==1.18.1
+opencv-python==3.4.2.17
+Pillow==7.2.0
+six==1.12.0
