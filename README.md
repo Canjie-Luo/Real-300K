@@ -37,11 +37,11 @@ Check the ``demo`` folder for details.
 ## Citation
 
 ```
-@inproceedings{Luo2022SimAN,
+@inproceedings{luo2022siman,
   title={SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization},
   author={Luo, Canjie and Jin, Lianwen and Chen, Jingdong},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages={1--10},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1039--1048},
   year={2022}
 }
 ```
